@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+button {
+  padding: 1em;
+  margin-top: 1em;
+  font-size: 1em;
+  background-color: aqua;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2em;
+}
